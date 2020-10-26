@@ -1,0 +1,7 @@
+Creating Modularized application
+https://www.youtube.com/watch?v=4EXcded_P70
+
+Java 9 modules with Maven
+https://www.youtube.com/watch?v=T8gnpwm2fuU
+For Maven, there is no change actually. Each module becomes a child module that needs to have its own pom.xml
+and needs to be included in parent module's pom.xml.

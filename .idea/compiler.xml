@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="academy.learnprogramming.jokeapp" />
+        <module name="academy.learnprogramming.jokeserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="academy.learnprogramming.jokeapp" target="1.13" />
+      <module name="academy.learnprogramming.jokeserver" target="1.13" />
+      <module name="Java91011Project" target="1.13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
