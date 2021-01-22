@@ -6,7 +6,7 @@ public interface PrivateMethodsInterface {
     }
     //private default void myPrivateDefaultMethod() { }// not allowed. default methods are always public
 
-    private static void myPrivateStaticMethod() { // static methods can be private or public
-
+    private static void myPrivateStaticMethod() { // static methods can be private also. Till Java 8, it could be public only.
+        // here you can write a generic code that can be called from multiple 'public static' methods.
     }
 }
