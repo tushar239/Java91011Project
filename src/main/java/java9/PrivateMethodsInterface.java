@@ -1,4 +1,4 @@
-package academy;
+package java9;
 
 public interface PrivateMethodsInterface {
     //private void myPrivateMethod(); // not allowed. all interface methods are public by default
