@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java91011Project.iml" filepath="$PROJECT_DIR$/Java91011Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeapp/academy.learnprogramming.jokeapp.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeapp/academy.learnprogramming.jokeapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeserver/academy.learnprogramming.jokeserver.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeserver/academy.learnprogramming.jokeserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeserver.kid/academy.learnprogramming.jokeserver.kid.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeserver.kid/academy.learnprogramming.jokeserver.kid.iml" />
       <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeserver.programmer/academy.learnprogramming.jokeserver.programmer.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeserver.programmer/academy.learnprogramming.jokeserver.programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeapp/jokeapp.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeapp/jokeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeserver/jokeserver.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeserver/jokeserver.iml" />
     </modules>
   </component>
 </project>

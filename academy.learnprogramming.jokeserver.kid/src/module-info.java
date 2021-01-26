@@ -1,6 +1,6 @@
 module academy.learnprogramming.jokeserver.kid {
 
-    // whichever module requires academy.learnprogramming.jokeserver.programmer module
+    // whichever module requires academy.learnprogramming.jokeserver.kid module
     // will automatically get academy.learnprogramming.jokeserver module also
     requires transitive academy.learnprogramming.jokeserver;
     requires java.logging;
